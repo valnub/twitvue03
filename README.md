@@ -1,6 +1,19 @@
-# twitvue
+# Twitvue03
 
-> A Vue.js project with Framework7
+# Twitvue02
+Sourcecode for episode 2 (Posting tweets to Twitter API) of the series on "How to create a Twitter app with VueJS, PhoneGap and Framework7"
+
+Find the video here: https://www.youtube.com/watch?v=ybaigTnn5E0
+
+## Configuration
+
+1. Go to http://apps.twitter.com and register a new app
+2. Open src/twitter.js in your text editor
+3. Change this line and add your tokens:
+
+```javascript
+cb.setConsumerKey("YOURKEY", "YOURSECRET");
+```
 
 ## Build Setup
 
@@ -15,4 +28,5 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+More info and contact [on my blog](https://www.timo-ernst.net/blog/2017/01/09/tutorial-create-a-twitter-app-with-vuejs-framework7-phonegap-and-webpack-episode-01/).
+
