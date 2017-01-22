@@ -1,6 +1,6 @@
 # Twitvue03
 
-Sourcecode for episode 2 (Posting tweets to Twitter API) of the series on "How to create a Twitter app with VueJS, PhoneGap and Framework7"
+Sourcecode for episode 3 (Posting tweets to Twitter API) of the series on "How to create a Twitter app with VueJS, PhoneGap and Framework7"
 
 Find the video here: https://www.youtube.com/watch?v=ybaigTnn5E0
 
